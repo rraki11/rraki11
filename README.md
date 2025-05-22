@@ -1,9 +1,14 @@
-- 👋 Hi, I’m Shubham a.k.a Rakesh
-- 👀 I’m interested in learning anything related to Computers, Networking, Ethical hacking, and IoT...
-- 🌱 I’m currently learning Selenium with Java during my Industrial training...
-- 📫 How to reach me: edits000.11@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Just trying to remember whatever I learn lol..
+-👋 Hi, I’m Shubham (a.k.a Rakesh)
+
+-💻 I’m passionate about Computers, Networking, Ethical Hacking, and IoT.
+
+-🌱 Currently learning **Selenium with Java** as part of my industrial training.
+
+-📫 Reach me at: edits000.11@gmail.com
+
+-😄 Pronouns: He/Him
+
+-⚡ Fun fact: Just trying to remember everything I learn — easier said than done! 😅
 
 <!---
 rraki11/rraki11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
