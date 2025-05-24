@@ -1,4 +1,5 @@
-# Hi, I’m Shubham (a.k.a Rakesh)
+# Hi![Uploading Hi.gif…]()
+, I’m Shubham (a.k.a Rakesh)
 I’m passionate about Computers, Networking, Ethical Hacking, and IoT.<br>Currently learning Selenium with Java as part of my industrial training.<br>Reach me at: edits000.11@gmail.com<br>Pronouns: He/Him<br>Fun fact: Just trying to remember everything I learn — easier said than done! 😅
 
 
